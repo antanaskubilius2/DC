@@ -19,4 +19,4 @@ async def on_message(message):
     
 async def on_ready():
         await client.change_presence(status=discord.Status.do_not_disturb, activity=discord.Game('Fortnite'))
-client.run('Njk1MTAzODQ3MDM0NTE5NTUy.XoVT5w.QUOnHqWId4b_qHaWL1Z2U-o4JYc')  # copy your token from the developer portal
+client.run('Njk1MTAzODQ3MDM0NTE5NTUy.XoVT5w.g_fZOCBTLRCsj-5wHhfBsRW-6Aw')  # copy your token from the developer portal
